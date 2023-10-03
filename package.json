@@ -13,7 +13,7 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "Stella Ling",
+  "author": "Felipe Ursini",
   "license": "ISC",
   "dependencies": {
     "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
@@ -26,10 +26,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stellalph/19-PWA-Text-Editor.git"
+    "url": "git+https://github.com/usflfelipe/text-editor"
   },
   "bugs": {
-    "url": "https://github.com/stellalph/19-PWA-Text-Editor/issues"
+    "url": "https://github.com/usflfelipe/text-editor/issues"
   },
-  "homepage": "https://github.com/stellalph/19-PWA-Text-Editor#readme"
+  "homepage": "https://github.com/usflfelipe/text-editor#readme"
 }
